@@ -7699,17 +7699,17 @@
   },
   {
     "title": "Trade Tracker",
-    "version": "1.1",
+    "version": "2.0",
     "_object": {
       "title": "Trade Tracker",
-      "description": "Automates the process to track your profits and losts in trading.\nCurrent extension is integrated with API tsarcade.com\nIMPORTANT: This extension shares with the webapp legacyhabbo.me the following data of your Habbo\n- Your Username\n-The Server you are playing at (com, es, br)\n- Your Trades (items, quantities, who you traded with)\nIf you want your data deleted, please contact me through discord (thauanvargas).",
+      "description": "Automates the process to track your profits and losts in trading.\nCurrent extension is integrated with API tsarcade.com\nIMPORTANT: This extension shares with the webapp legacyhabbo.me the following data of your Habbo\n- Your Username\n-The Server you are playing at (com, es, br)\n- Your Trades (items, quantities, who you traded with)\nIf you want your data deleted, please contact me through discord (thauan0x).",
       "authors": [
         {
           "name": "Erotico",
-          "discord": "thauanvargas"
+          "discord": "thauan0x"
         }
       ],
-      "version": "1.1",
+      "version": "2.0",
       "categories": [
         "Usability",
         "Trading"
@@ -7776,7 +7776,7 @@
         ]
       },
       "submissionDate": "24-10-2024 10:00:00",
-      "updateDate": "24-10-2024 10:00:00",
+      "updateDate": "13-12-2024 09:30:00",
       "isOutdated": false
     },
     "discordMessages": [
@@ -7789,8 +7789,18 @@
         "timestamp": 1730559357389,
         "locked": false,
         "score": 80
+      },
+      {
+        "channelId": "878094299403788330",
+        "guildId": "744927320871010404",
+        "messageId": "1317066360802512987",
+        "extVersion": "2.0",
+        "type": "update",
+        "timestamp": 1734083490755,
+        "locked": false,
+        "score": 0
       }
     ],
-    "latestEmbed": 1730559357389
+    "latestEmbed": 1734083490755
   }
 ]
