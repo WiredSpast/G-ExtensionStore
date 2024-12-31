@@ -1939,7 +1939,7 @@
         "name": "QDave",
         "discord": "qdave",
         "extensionsCount": 2,
-        "reputation": 705
+        "reputation": 725
       }
     ],
     "version": "1.4",
@@ -2294,7 +2294,7 @@
         "name": "QDave",
         "discord": "qdave",
         "extensionsCount": 2,
-        "reputation": 705
+        "reputation": 725
       }
     ],
     "version": "1.0",
@@ -2349,7 +2349,7 @@
     "submissionDate": "29-07-2024 00:36:00",
     "updateDate": "29-07-2024 00:36:00",
     "isOutdated": false,
-    "rating": 170
+    "rating": 190
   },
   {
     "title": "Handitem Chooser",
